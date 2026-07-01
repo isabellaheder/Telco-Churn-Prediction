@@ -28,13 +28,14 @@ https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/20
 
 Melhor modelo: Gradient Boosting Classifier
 
-<img width="539" height="432" alt="34d7bda4-84ca-472b-9736-0279b8e32f7e" src="https://github.com/user-attachments/assets/9bc84d13-89b8-43b2-95b7-3fa7c533cd09" />
+<img width="539" height="432" alt="a4080bfb-c5c1-4d4b-ad77-c1204c50e741" src="https://github.com/user-attachments/assets/99920606-db49-4c5e-b196-a9e47be90721" />
+
 
               precision    recall  f1-score   support
 
-           0       0.91      0.71      0.80      1033
-           1       0.50      0.79      0.61       374
+           0       0.80      0.72      0.76       374
+           1       0.75      0.82      0.78       374
 
-    accuracy                            0.74      1407
-    macro avg       0.70      0.75      0.71      1407
-    weighted avg    0.80      0.74      0.75      1407
+    accuracy                           0.77       748
+    macro avg       0.78      0.77     0.77       748
+    weighted avg    0.78      0.77     0.77       748
